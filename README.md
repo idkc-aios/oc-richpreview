@@ -21,3 +21,5 @@ function onEnd() {
     $this->page->og_image         = "$var_my_link_image";
 }
 ```
+
+test the preview of your website from [here](https://richpreview.com/?url=http%3A%2F%2Faios.pe)
