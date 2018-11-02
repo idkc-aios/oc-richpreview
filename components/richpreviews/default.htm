@@ -1,0 +1,10 @@
+        <!-- Rich Preview --> 
+        <meta property="og:url"         content="{{ url ~ this.page.url }}" />
+        <meta property="og:type"        content="article" />
+        <meta property="og:title"       content="{{ this.page.og_title }}" />
+        <meta property="og:description" content="{{ this.page.og_description }}" />
+        <meta property="og:image"       content="{{ url ~ this.page.og_image|media }}" />
+        
+        <!-- Google results -->
+        <meta name="title"              content="{{ this.page.meta_title }}">
+        <meta name="description"        content="{{ this.page.meta_description }}">

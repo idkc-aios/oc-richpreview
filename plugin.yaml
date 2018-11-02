@@ -1,0 +1,6 @@
+plugin:
+    name: 'aios.richpreviews::lang.plugin.name'
+    description: 'aios.richpreviews::lang.plugin.description'
+    author: AIOS
+    icon: oc-icon-link
+    homepage: ''
